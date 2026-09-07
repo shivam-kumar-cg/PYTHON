@@ -39,7 +39,7 @@ if age>=18:
 else:
     print("minor")
 
-#48
+#8
 number=int(input("enter a number :"))
 if number%2==0:
     print("even")
