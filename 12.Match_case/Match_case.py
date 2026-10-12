@@ -324,7 +324,7 @@ match acc:
 
 #18
 
-cat = int(input("Enter category: "))
+cat = int(input("Enter Category: "))
 
 match cat:
     case 1:
